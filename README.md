@@ -1,3 +1,5 @@
+![Downloads shield](https://img.shields.io/pypi/dm/neuroglancer.svg)
+
 # intern
 [![PyPI version](https://badge.fury.io/py/intern.svg)](https://badge.fury.io/py/intern)
 [![CircleCI](https://circleci.com/gh/jhuapl-boss/intern.svg?style=svg)](https://circleci.com/gh/jhuapl-boss/intern)
